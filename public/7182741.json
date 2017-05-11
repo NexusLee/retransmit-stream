@@ -1,0 +1,5 @@
+{
+"type":"flv",
+"isLive":"true",
+"url":"ws://localhost:3000"
+}
